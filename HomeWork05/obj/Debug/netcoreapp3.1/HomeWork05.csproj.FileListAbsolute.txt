@@ -1,0 +1,13 @@
+D:\demo\HomeWork05\obj\Debug\netcoreapp3.1\HomeWork05.csprojAssemblyReference.cache
+D:\demo\HomeWork05\obj\Debug\netcoreapp3.1\HomeWork05.csproj.CoreCompileInputs.cache
+D:\demo\HomeWork05\obj\Debug\netcoreapp3.1\HomeWork05.AssemblyInfoInputs.cache
+D:\demo\HomeWork05\obj\Debug\netcoreapp3.1\HomeWork05.AssemblyInfo.cs
+D:\demo\HomeWork05\bin\Debug\netcoreapp3.1\HomeWork05.exe
+D:\demo\HomeWork05\bin\Debug\netcoreapp3.1\HomeWork05.deps.json
+D:\demo\HomeWork05\bin\Debug\netcoreapp3.1\HomeWork05.runtimeconfig.json
+D:\demo\HomeWork05\bin\Debug\netcoreapp3.1\HomeWork05.runtimeconfig.dev.json
+D:\demo\HomeWork05\bin\Debug\netcoreapp3.1\HomeWork05.dll
+D:\demo\HomeWork05\bin\Debug\netcoreapp3.1\HomeWork05.pdb
+D:\demo\HomeWork05\obj\Debug\netcoreapp3.1\HomeWork05.dll
+D:\demo\HomeWork05\obj\Debug\netcoreapp3.1\HomeWork05.pdb
+D:\demo\HomeWork05\obj\Debug\netcoreapp3.1\HomeWork05.genruntimeconfig.cache
