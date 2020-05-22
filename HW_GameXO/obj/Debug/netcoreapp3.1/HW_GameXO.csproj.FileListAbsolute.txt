@@ -1,0 +1,13 @@
+D:\demo\HW_GameXO\bin\Debug\netcoreapp3.1\HW_GameXO.exe
+D:\demo\HW_GameXO\bin\Debug\netcoreapp3.1\HW_GameXO.deps.json
+D:\demo\HW_GameXO\bin\Debug\netcoreapp3.1\HW_GameXO.runtimeconfig.json
+D:\demo\HW_GameXO\bin\Debug\netcoreapp3.1\HW_GameXO.runtimeconfig.dev.json
+D:\demo\HW_GameXO\bin\Debug\netcoreapp3.1\HW_GameXO.dll
+D:\demo\HW_GameXO\bin\Debug\netcoreapp3.1\HW_GameXO.pdb
+D:\demo\HW_GameXO\obj\Debug\netcoreapp3.1\HW_GameXO.csprojAssemblyReference.cache
+D:\demo\HW_GameXO\obj\Debug\netcoreapp3.1\HW_GameXO.csproj.CoreCompileInputs.cache
+D:\demo\HW_GameXO\obj\Debug\netcoreapp3.1\HW_GameXO.AssemblyInfoInputs.cache
+D:\demo\HW_GameXO\obj\Debug\netcoreapp3.1\HW_GameXO.AssemblyInfo.cs
+D:\demo\HW_GameXO\obj\Debug\netcoreapp3.1\HW_GameXO.dll
+D:\demo\HW_GameXO\obj\Debug\netcoreapp3.1\HW_GameXO.pdb
+D:\demo\HW_GameXO\obj\Debug\netcoreapp3.1\HW_GameXO.genruntimeconfig.cache
